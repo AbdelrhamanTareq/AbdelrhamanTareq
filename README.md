@@ -1,4 +1,4 @@
-## Hi, I’m @AbdelrhamanTareq
+## Hi, I’m Abdelrhaman Tareq
 ## I'm software engineer 
 ## I’m interested in programming and artificial intelligence
 ## 🌱 I’m currently mobile developer 
